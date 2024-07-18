@@ -1,5 +1,5 @@
 public class RewardValue {
-    private double Value;
+    private final double Value;
 
     public RewardValue(double cashValue){
         this.Value = cashValue;
